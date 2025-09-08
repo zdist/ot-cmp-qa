@@ -1,0 +1,55 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Dynamic Script Content</title>
+		<link href="./styles.css" rel="stylesheet" />
+	</head>
+	<body>
+		<h1>Update Script Content</h1>
+
+		<textarea
+			id="nameInput"
+			rows="50"
+			cols="10"
+			placeholder="Enter Name here..."
+		></textarea>
+		<textarea
+			id="scriptInput"
+			rows="10"
+			cols="50"
+			placeholder="Enter Scripts here..."
+		></textarea>
+		<textarea
+			id="footerInput"
+			rows="10"
+			cols="50"
+			placeholder="Enter footer here..."
+		></textarea>
+		<br />
+		<button href="../index.html">Cancel</button>
+		<button onclick="updateScript()">Submit</button>
+
+		<div id="scriptContainer">
+			<script id="dynamicScript">
+				// Initial script content
+				console.log("This is the initial script content.");
+			</script>
+		</div>
+
+		<script>
+			function updateScript() {
+				const scriptInput = document.getElementById("scriptInput");
+				const dynamicScript = document.getElementById("dynamicScript");
+
+				// Clear existing content and set new text
+				dynamicScript.textContent = scriptInput.value;
+
+				// Optional: Re-execute the script content if it's executable JavaScript
+				// Note: This can be risky with untrusted user input.
+				eval(scriptInput.value);
+			}
+		</script>
+	</body>
+</html> -->
