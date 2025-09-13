@@ -1,3 +1,10 @@
+> [!NOTE]
+> _This is currently a work in progress..._
+
+This repo was inspired by OneTrust's `OneTrust.testLog()` functionality.
+
+![thumbs-up-that's-rad](https://github.com/user-attachments/assets/600f9943-5b9d-4ed2-b230-4dff34c6061d)
+
 # Onboarding Checklist
 
 ### Knowledge Transfer (KT) Guide
