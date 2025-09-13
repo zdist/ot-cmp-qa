@@ -1,6 +1,6 @@
 body {
 	font-family: Arial, sans-serif;
-	margin: 20px;
+	margin: 5em 10em;
 	background-color: whitesmoke;
 	color: #212529;
 }
@@ -9,43 +9,4 @@ h1 {
 }
 h3 {
 	font-style: italic;
-}
-table {
-	border-collapse: collapse;
-	width: 100%;
-}
-table,
-col,
-colgroup,
-th,
-td {
-	border: 2px solid #212529;
-}
-thead {
-	background-color: #829cb2;
-}
-thead,
-td {
-	cursor: default;
-}
-th a {
-	font-weight: normal;
-	text-decoration: none !important;
-}
-th:hover a {
-	text-decoration: underline;
-}
-button {
-	background-color: #829cb2;
-	border: none;
-	color: white;
-	padding: 10px 20px;
-	text-align: center;
-	text-decoration: none;
-	/* display: inline-block; */
-	font-size: 16px;
-	margin: 4px 2px;
-	cursor: pointer;
-	border-radius: 4px;
-	float: right;
 }
