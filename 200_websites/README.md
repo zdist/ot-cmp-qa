@@ -20,4 +20,4 @@ Cookie Blocking:
 
 How to use this site:
 
-<img width="765" height="114" alt="Screen Shot 2025-09-07 at 11 05 55 PM" src="https://github.com/user-attachments/assets/b546611d-7b29-42fb-802e-4e85b96078db" />
+<img width="723" height="111" alt="Screen Shot 2025-11-02 at 2 56 35 PM" src="https://github.com/user-attachments/assets/259c6af3-23f8-4e7a-aed7-17914918d4e8" />
